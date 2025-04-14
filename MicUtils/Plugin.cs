@@ -34,7 +34,7 @@ namespace MicUtils
         {
             if (show)
             {
-                window = GUI.Window(0, window, Window, "MicUtils");
+                window = GUI.Window(621, window, Window, "MicUtils");
             }
         }
 

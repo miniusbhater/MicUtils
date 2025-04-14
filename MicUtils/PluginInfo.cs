@@ -7,6 +7,6 @@
     {
         public const string GUID = "com.miniusbhater.gorillatag.micutils";
         public const string Name = "MicUtils";
-        public const string Version = "1.1.0";
+        public const string Version = "1.1.1";
     }
 }
